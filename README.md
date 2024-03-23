@@ -3,7 +3,7 @@
 
 # Mintstrap for Roblox
 
-A theme for Roblox using Bloxstrap
+Mint theme for Roblox using Bloxstrap
 
 ## Installation
 
