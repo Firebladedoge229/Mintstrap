@@ -3,7 +3,7 @@
 
 # Mintstrap for Roblox
 
-Mint theme for Roblox using Bloxstrap
+A theme for Roblox using Bloxstrap
 
 ## Installation
 
@@ -37,6 +37,13 @@ Navigate to the FastFlag Editor and Import the following JSON:
 
 ![Icon](https://i.ibb.co/NpzZgzf/iconsettings.png)
 ![Icon Settings](https://i.ibb.co/C89PVzZ/custom.png)
+
+## Showcase
+
+![Collapsed Menu](https://i.ibb.co/KsFL0ZY/collapsed-menu.png)
+![Open Menu](https://i.ibb.co/QFsy1qW/open-menu.png)
+![Players](https://i.ibb.co/C2mcLYw/players.png)
+![Paremeters](https://i.ibb.co/98fvdX9/parameters.png)
 
 ## Authors
 
