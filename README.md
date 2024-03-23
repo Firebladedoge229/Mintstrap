@@ -31,7 +31,7 @@ Navigate to the FastFlag Editor and Import the following JSON:
 ```
 
 ![FastFlag Editor](https://i.ibb.co/c342v9j/fastflag.png)
-![Import JSON](https://i.ibb.co/nrFmRny/import.png)
+![Import JSON](https://i.ibb.co/Dwp8HjJ/import.png)
 
 ### Optional: Set the Bloxstrap Icon to the Mintstrap Icon in the Appearance Settings
 
