@@ -26,7 +26,8 @@ Navigate to the FastFlag Editor and Import the following JSON:
     "FFlagDisableNewIGMinDUA": "True",
     "FFlagEnableInGameMenuChrome": "True",
     "FFlagEnableInGameMenuControls": "True",
-    "FFlagEnableInGameMenuModernization": "True"
+    "FFlagEnableInGameMenuModernization": "True",
+    "FFlagEnableChromePinnedChat": "False"
 }
 ```
 
